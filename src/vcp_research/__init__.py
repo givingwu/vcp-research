@@ -1,0 +1,1 @@
+"""VCP vs momentum: causal daily-bar research engine."""
